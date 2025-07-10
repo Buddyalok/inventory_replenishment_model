@@ -6,11 +6,9 @@
 - [Solution Approach](#solution-approach)
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
-- [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Overview
 This project is an **Automatic Inventory Replenishment Model** designed to help businesses optimize their inventory levels, minimize stockouts, and reduce working capital costs. The project leverages data-driven techniques to automate the process of determining when and how much inventory to reorder.
