@@ -30,7 +30,7 @@ Develop an automated model that analyzes historical sales and inventory data, fo
 
 ## Solution Approach
 
-Our solution involves building a data pipeline and predictive model with the following steps:
+The solution involves building a data pipeline and predictive model with the following steps:
 
 1. **Data Collection & Preprocessing**  
    - Ingest historical sales, inventory, and lead time data.
@@ -40,7 +40,7 @@ Our solution involves building a data pipeline and predictive model with the fol
    - Use time-series forecasting (e.g., Exponential Smoothing, or machine learning models) to predict future demand for each SKU.
 
 3. **Inventory Policy Modeling**  
-   - Implement inventory policies like (Q, R) model (Order Quantity, Reorder Point) or custom policies based on business needs.
+   - Implement inventory policies like (Order Quantity, Reorder Point) or custom policies based on business needs.
    - Calculate safety stock, reorder points, and optimal order quantities using demand forecast, lead time, and desired service levels.
 
 4. **Automated Replenishment Recommendation**  
@@ -57,11 +57,8 @@ Our solution involves building a data pipeline and predictive model with the fol
 inventory_replenishment_model/
 │
 ├── data/
-│   └── ...             # Raw and processed data files
-├── notebooks/
-│   └── ...             # Jupyter notebooks for EDA, modeling, and reporting
-├── src/
-│   └── ...             # Source code (data pipeline, modeling, utils)
+│   └── ...             # Raw and processed data files (These are sample data)
+├── main.ipynb          # source code 
 ├── requirements.txt
 └── README.md
 ```
@@ -71,7 +68,7 @@ inventory_replenishment_model/
 ## How It Works
 
 1. **Input:**  
-   - Historical sales and inventory data (CSV, Excel, or database).
+   - Historical sales and inventory data (CSV, Excel, Google Sheet or database).
    - Lead time information.
    - Service level targets and business constraints.
 
@@ -86,32 +83,11 @@ inventory_replenishment_model/
 
 ---
 
-## Setup Instructions
-
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/aalokchowdhury/inventory_replenishment_model.git
-   cd inventory_replenishment_model
-   ```
-
-2. **Install Dependencies**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare Data**
-   - Place your data in the `data/` folder according to the instructions in the notebooks.
-
-4. **Run Notebooks**
-   - Open and run the Jupyter notebooks in the `notebooks/` directory for EDA, modeling, and report generation.
-
----
-
 ## Usage
 
 - Update the data files with your own sales and inventory data.
 - Adjust model parameters (forecasting method, service level, etc.) in the notebook or config files.
-- Run the notebook(s) to generate replenishment recommendations and reports.
+- Run the notebook to generate replenishment recommendations and reports.
 
 ---
 
@@ -125,15 +101,9 @@ inventory_replenishment_model/
 ## Future Improvements
 
 - Integrate real-time data feeds (ERP/Inventory systems)
-- Implement advanced forecasting models to predict near to actual growth % (Prophet, LSTM, etc.)
+- Implement advanced forecasting models to predict near to actual growth %
 - Add simulation for testing inventory policies under uncertainty
 - Deploy as a web app or dashboard for business users
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
