@@ -1,0 +1,101 @@
+sku_code,sku_name,vendor_id,vendor_name,sku_type,expiry,SKU_ageing_days,date_updated
+BGT_SKU_001,Styling Gel Strong Hold (Var 1),VNDR_014,Beauty Suppliers Inc. 14,continued,No,398,29-05-2025
+BGT_SKU_002,Night Repair Oil (Var 2),VNDR_013,Beauty Suppliers Inc. 13,continued,Yes,283,19-06-2025
+BGT_SKU_003,Hydrating Face Wash (Var 3),VNDR_011,Beauty Suppliers Inc. 11,new,Yes,88,07-05-2025
+BGT_SKU_004,Deodorant Fresh (Var 4),VNDR_008,Beauty Suppliers Inc. 8,discontinued,No,183,23-05-2025
+BGT_SKU_005,Exfoliating Scrub (Var 5),VNDR_013,Beauty Suppliers Inc. 13,continued,No,271,13-05-2025
+BGT_SKU_006,Styling Gel Strong Hold (Var 6),VNDR_013,Beauty Suppliers Inc. 13,new,Yes,365,10-05-2025
+BGT_SKU_007,Charcoal Face Mask (Var 7),VNDR_011,Beauty Suppliers Inc. 11,new,Yes,37,06-06-2025
+BGT_SKU_008,Styling Gel Strong Hold (Var 8),VNDR_002,Beauty Suppliers Inc. 2,new,Yes,359,11-06-2025
+BGT_SKU_009,Fragrance Eau De Parfum (Var 9),VNDR_011,Beauty Suppliers Inc. 11,new,Yes,320,20-05-2025
+BGT_SKU_010,Shaving Foam Sensitive (Var 10),VNDR_002,Beauty Suppliers Inc. 2,continued,No,162,27-04-2025
+BGT_SKU_011,Sunscreen SPF 50 (Var 11),VNDR_001,Beauty Suppliers Inc. 1,new,No,246,30-05-2025
+BGT_SKU_012,Styling Gel Strong Hold (Var 12),VNDR_007,Beauty Suppliers Inc. 7,discontinued,No,106,01-06-2025
+BGT_SKU_013,Body Lotion Cocoa (Var 13),VNDR_010,Beauty Suppliers Inc. 10,discontinued,No,147,05-06-2025
+BGT_SKU_014,Eye Cream Dark Circles (Var 14),VNDR_003,Beauty Suppliers Inc. 3,continued,Yes,454,13-06-2025
+BGT_SKU_015,Night Repair Oil (Var 15),VNDR_008,Beauty Suppliers Inc. 8,continued,No,123,26-04-2025
+BGT_SKU_016,Shaving Foam Sensitive (Var 16),VNDR_009,Beauty Suppliers Inc. 9,continued,No,406,07-05-2025
+BGT_SKU_017,Lip Balm Tinted (Var 17),VNDR_013,Beauty Suppliers Inc. 13,new,Yes,611,11-05-2025
+BGT_SKU_018,Night Repair Oil (Var 18),VNDR_013,Beauty Suppliers Inc. 13,discontinued,Yes,697,09-05-2025
+BGT_SKU_019,Fragrance Eau De Parfum (Var 19),VNDR_010,Beauty Suppliers Inc. 10,discontinued,No,676,27-05-2025
+BGT_SKU_020,Sunscreen SPF 50 (Var 20),VNDR_013,Beauty Suppliers Inc. 13,continued,No,558,06-05-2025
+BGT_SKU_021,Shaving Foam Sensitive (Var 21),VNDR_015,Beauty Suppliers Inc. 15,discontinued,No,176,03-05-2025
+BGT_SKU_022,Exfoliating Scrub (Var 22),VNDR_005,Beauty Suppliers Inc. 5,new,No,284,04-06-2025
+BGT_SKU_023,Exfoliating Scrub (Var 23),VNDR_005,Beauty Suppliers Inc. 5,discontinued,Yes,414,05-05-2025
+BGT_SKU_024,Night Repair Oil (Var 24),VNDR_008,Beauty Suppliers Inc. 8,continued,Yes,419,05-06-2025
+BGT_SKU_025,Night Repair Oil (Var 25),VNDR_007,Beauty Suppliers Inc. 7,discontinued,Yes,473,18-05-2025
+BGT_SKU_026,Deodorant Fresh (Var 26),VNDR_012,Beauty Suppliers Inc. 12,discontinued,No,654,14-06-2025
+BGT_SKU_027,Eye Cream Dark Circles (Var 27),VNDR_011,Beauty Suppliers Inc. 11,discontinued,Yes,390,14-05-2025
+BGT_SKU_028,Styling Gel Strong Hold (Var 28),VNDR_002,Beauty Suppliers Inc. 2,new,No,166,10-06-2025
+BGT_SKU_029,Anti-Aging Cream (Var 29),VNDR_014,Beauty Suppliers Inc. 14,discontinued,Yes,442,19-05-2025
+BGT_SKU_030,Exfoliating Scrub (Var 30),VNDR_002,Beauty Suppliers Inc. 2,new,No,600,02-06-2025
+BGT_SKU_031,Acne Spot Treatment (Var 31),VNDR_014,Beauty Suppliers Inc. 14,discontinued,No,59,21-06-2025
+BGT_SKU_032,Sheet Mask Brightening (Var 32),VNDR_008,Beauty Suppliers Inc. 8,discontinued,Yes,541,12-05-2025
+BGT_SKU_033,Anti-Aging Cream (Var 33),VNDR_013,Beauty Suppliers Inc. 13,discontinued,Yes,578,05-06-2025
+BGT_SKU_034,Lip Balm Tinted (Var 34),VNDR_006,Beauty Suppliers Inc. 6,continued,No,511,20-05-2025
+BGT_SKU_035,Lip Balm Tinted (Var 35),VNDR_002,Beauty Suppliers Inc. 2,discontinued,No,161,03-05-2025
+BGT_SKU_036,Conditioner Argan Oil (Var 36),VNDR_013,Beauty Suppliers Inc. 13,discontinued,No,119,18-06-2025
+BGT_SKU_037,Exfoliating Scrub (Var 37),VNDR_003,Beauty Suppliers Inc. 3,new,Yes,169,30-05-2025
+BGT_SKU_038,Acne Spot Treatment (Var 38),VNDR_006,Beauty Suppliers Inc. 6,discontinued,Yes,56,01-06-2025
+BGT_SKU_039,Eye Cream Dark Circles (Var 39),VNDR_007,Beauty Suppliers Inc. 7,continued,Yes,590,25-05-2025
+BGT_SKU_040,Eye Cream Dark Circles (Var 40),VNDR_008,Beauty Suppliers Inc. 8,continued,No,336,03-05-2025
+BGT_SKU_041,Shaving Foam Sensitive (Var 41),VNDR_006,Beauty Suppliers Inc. 6,discontinued,Yes,381,26-04-2025
+BGT_SKU_042,Anti-Aging Cream (Var 42),VNDR_014,Beauty Suppliers Inc. 14,new,No,105,11-06-2025
+BGT_SKU_043,Fragrance Eau De Parfum (Var 43),VNDR_010,Beauty Suppliers Inc. 10,continued,No,709,27-04-2025
+BGT_SKU_044,Shaving Foam Sensitive (Var 44),VNDR_013,Beauty Suppliers Inc. 13,continued,No,176,20-05-2025
+BGT_SKU_045,Acne Spot Treatment (Var 45),VNDR_012,Beauty Suppliers Inc. 12,new,No,150,22-06-2025
+BGT_SKU_046,Hydrating Face Wash (Var 46),VNDR_004,Beauty Suppliers Inc. 4,discontinued,Yes,547,10-06-2025
+BGT_SKU_047,Shaving Foam Sensitive (Var 47),VNDR_009,Beauty Suppliers Inc. 9,discontinued,Yes,128,23-05-2025
+BGT_SKU_048,Eye Cream Dark Circles (Var 48),VNDR_004,Beauty Suppliers Inc. 4,new,Yes,94,29-05-2025
+BGT_SKU_049,Night Repair Oil (Var 49),VNDR_003,Beauty Suppliers Inc. 3,discontinued,No,332,30-05-2025
+BGT_SKU_050,After Shave Balm (Var 50),VNDR_011,Beauty Suppliers Inc. 11,new,No,240,10-05-2025
+BGT_SKU_051,After Shave Balm (Var 51),VNDR_006,Beauty Suppliers Inc. 6,discontinued,No,147,24-06-2025
+BGT_SKU_052,Exfoliating Scrub (Var 52),VNDR_015,Beauty Suppliers Inc. 15,new,No,724,10-06-2025
+BGT_SKU_053,Charcoal Face Mask (Var 53),VNDR_011,Beauty Suppliers Inc. 11,continued,Yes,299,08-05-2025
+BGT_SKU_054,Conditioner Argan Oil (Var 54),VNDR_004,Beauty Suppliers Inc. 4,continued,Yes,422,07-06-2025
+BGT_SKU_055,Hydrating Face Wash (Var 55),VNDR_015,Beauty Suppliers Inc. 15,continued,Yes,229,16-06-2025
+BGT_SKU_056,Styling Gel Strong Hold (Var 56),VNDR_013,Beauty Suppliers Inc. 13,discontinued,Yes,292,11-06-2025
+BGT_SKU_057,Deodorant Fresh (Var 57),VNDR_008,Beauty Suppliers Inc. 8,continued,No,457,15-06-2025
+BGT_SKU_058,Vitamin C Serum (Var 58),VNDR_003,Beauty Suppliers Inc. 3,new,No,500,24-05-2025
+BGT_SKU_059,Eye Cream Dark Circles (Var 59),VNDR_009,Beauty Suppliers Inc. 9,continued,Yes,90,19-06-2025
+BGT_SKU_060,Conditioner Argan Oil (Var 60),VNDR_011,Beauty Suppliers Inc. 11,continued,Yes,400,26-05-2025
+BGT_SKU_061,Vitamin C Serum (Var 61),VNDR_014,Beauty Suppliers Inc. 14,new,No,530,26-05-2025
+BGT_SKU_062,Acne Spot Treatment (Var 62),VNDR_011,Beauty Suppliers Inc. 11,new,No,304,03-05-2025
+BGT_SKU_063,Eye Cream Dark Circles (Var 63),VNDR_006,Beauty Suppliers Inc. 6,discontinued,No,42,06-05-2025
+BGT_SKU_064,Charcoal Face Mask (Var 64),VNDR_006,Beauty Suppliers Inc. 6,discontinued,No,474,28-05-2025
+BGT_SKU_065,Anti-Aging Cream (Var 65),VNDR_003,Beauty Suppliers Inc. 3,new,Yes,128,29-04-2025
+BGT_SKU_066,Vitamin C Serum (Var 66),VNDR_002,Beauty Suppliers Inc. 2,discontinued,Yes,102,13-06-2025
+BGT_SKU_067,Shaving Foam Sensitive (Var 67),VNDR_004,Beauty Suppliers Inc. 4,discontinued,No,591,30-04-2025
+BGT_SKU_068,Beard Oil Premium (Var 68),VNDR_009,Beauty Suppliers Inc. 9,discontinued,No,200,12-06-2025
+BGT_SKU_069,Lip Balm Tinted (Var 69),VNDR_007,Beauty Suppliers Inc. 7,new,Yes,228,22-06-2025
+BGT_SKU_070,After Shave Balm (Var 70),VNDR_005,Beauty Suppliers Inc. 5,continued,Yes,569,25-05-2025
+BGT_SKU_071,Acne Spot Treatment (Var 71),VNDR_003,Beauty Suppliers Inc. 3,new,No,116,22-05-2025
+BGT_SKU_072,Conditioner Argan Oil (Var 72),VNDR_015,Beauty Suppliers Inc. 15,continued,Yes,494,22-06-2025
+BGT_SKU_073,Acne Spot Treatment (Var 73),VNDR_003,Beauty Suppliers Inc. 3,discontinued,Yes,119,12-06-2025
+BGT_SKU_074,Night Repair Oil (Var 74),VNDR_008,Beauty Suppliers Inc. 8,new,Yes,694,14-05-2025
+BGT_SKU_075,Eye Cream Dark Circles (Var 75),VNDR_010,Beauty Suppliers Inc. 10,continued,No,149,29-04-2025
+BGT_SKU_076,Styling Gel Strong Hold (Var 76),VNDR_008,Beauty Suppliers Inc. 8,continued,Yes,262,30-04-2025
+BGT_SKU_077,Beard Oil Premium (Var 77),VNDR_007,Beauty Suppliers Inc. 7,continued,Yes,638,07-05-2025
+BGT_SKU_078,Vitamin C Serum (Var 78),VNDR_006,Beauty Suppliers Inc. 6,discontinued,No,494,06-05-2025
+BGT_SKU_079,Conditioner Argan Oil (Var 79),VNDR_012,Beauty Suppliers Inc. 12,discontinued,Yes,533,29-04-2025
+BGT_SKU_080,Acne Spot Treatment (Var 80),VNDR_008,Beauty Suppliers Inc. 8,discontinued,Yes,393,13-05-2025
+BGT_SKU_081,Deodorant Fresh (Var 81),VNDR_008,Beauty Suppliers Inc. 8,discontinued,No,252,29-05-2025
+BGT_SKU_082,Conditioner Argan Oil (Var 82),VNDR_010,Beauty Suppliers Inc. 10,new,Yes,294,03-06-2025
+BGT_SKU_083,Conditioner Argan Oil (Var 83),VNDR_013,Beauty Suppliers Inc. 13,discontinued,No,632,19-06-2025
+BGT_SKU_084,Night Repair Oil (Var 84),VNDR_004,Beauty Suppliers Inc. 4,discontinued,Yes,63,17-06-2025
+BGT_SKU_085,Shaving Foam Sensitive (Var 85),VNDR_014,Beauty Suppliers Inc. 14,continued,Yes,545,31-05-2025
+BGT_SKU_086,Sunscreen SPF 50 (Var 86),VNDR_014,Beauty Suppliers Inc. 14,new,Yes,139,20-05-2025
+BGT_SKU_087,After Shave Balm (Var 87),VNDR_014,Beauty Suppliers Inc. 14,new,Yes,130,17-06-2025
+BGT_SKU_088,Body Lotion Cocoa (Var 88),VNDR_009,Beauty Suppliers Inc. 9,continued,Yes,89,11-06-2025
+BGT_SKU_089,Fragrance Eau De Parfum (Var 89),VNDR_010,Beauty Suppliers Inc. 10,new,Yes,54,08-06-2025
+BGT_SKU_090,Conditioner Argan Oil (Var 90),VNDR_010,Beauty Suppliers Inc. 10,discontinued,Yes,342,06-06-2025
+BGT_SKU_091,Lip Balm Tinted (Var 91),VNDR_008,Beauty Suppliers Inc. 8,continued,Yes,624,10-06-2025
+BGT_SKU_092,Deodorant Fresh (Var 92),VNDR_014,Beauty Suppliers Inc. 14,discontinued,No,271,06-06-2025
+BGT_SKU_093,Acne Spot Treatment (Var 93),VNDR_013,Beauty Suppliers Inc. 13,discontinued,Yes,289,12-05-2025
+BGT_SKU_094,Body Lotion Cocoa (Var 94),VNDR_013,Beauty Suppliers Inc. 13,discontinued,Yes,536,26-04-2025
+BGT_SKU_095,Anti-Aging Cream (Var 95),VNDR_013,Beauty Suppliers Inc. 13,discontinued,No,112,05-05-2025
+BGT_SKU_096,Body Lotion Cocoa (Var 96),VNDR_001,Beauty Suppliers Inc. 1,new,No,256,01-06-2025
+BGT_SKU_097,Charcoal Face Mask (Var 97),VNDR_010,Beauty Suppliers Inc. 10,new,Yes,318,10-05-2025
+BGT_SKU_098,Hair Growth Shampoo (Var 98),VNDR_007,Beauty Suppliers Inc. 7,new,No,315,12-06-2025
+BGT_SKU_099,Charcoal Face Mask (Var 99),VNDR_009,Beauty Suppliers Inc. 9,continued,Yes,381,04-05-2025
+BGT_SKU_100,Conditioner Argan Oil (Var 100),VNDR_005,Beauty Suppliers Inc. 5,new,Yes,155,22-05-2025
